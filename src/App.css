@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+  font-family: monospace;
+}
+
+.Tab {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  font-size: 6vw;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.Character {
+  white-space: pre;
+}
+
+.Character-current {
+  background-color: #09d3ac;
+}
+
+.Incorrect-character {
+  background-color: #d03c3c;
+}
+
+.error-animation {
+  color: white;
+  animation: colorchange 0.7s infinite ease-in-out alternate;
+}
+
+.Character-out {
+  color: silver;
+}
+
+@keyframes colorchange {
+  from {
+    color: white;
+  }
+  to {
+    color: #d03c3c;
+  }
+}
