@@ -85,7 +85,7 @@ function App() {
           </span>
           <span
             className={`Character-current ${
-              incorrect && 'Incorrect-character'
+              incorrect ? 'Incorrect-character' : 'correct-character'
             }`}
           >
             {currentChar}
@@ -94,8 +94,10 @@ function App() {
         </p>
         <h3>
           WPM: {wpm} | ACC: {accuracy}% | Err:{' '}
-          <span className={incorrect && 'error-animation'}>{errors}</span> |
-          CPM: {outgoingChars.length} | Words: {wordCount}
+          <span className={incorrect ? 'error-animation' : 'success'}>
+            {errors}
+          </span>{' '}
+          | CPM: {outgoingChars.length} | Words: {wordCount}
         </h3>
         <span>
           <a
