@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-typing-test/static/css/main.5c0da415.chunk.css",
+    "main.js": "/react-typing-test/static/js/main.75a89826.chunk.js",
+    "main.js.map": "/react-typing-test/static/js/main.75a89826.chunk.js.map",
+    "runtime-main.js": "/react-typing-test/static/js/runtime-main.912a9e48.js",
+    "runtime-main.js.map": "/react-typing-test/static/js/runtime-main.912a9e48.js.map",
+    "static/js/2.30c17023.chunk.js": "/react-typing-test/static/js/2.30c17023.chunk.js",
+    "static/js/2.30c17023.chunk.js.map": "/react-typing-test/static/js/2.30c17023.chunk.js.map",
+    "index.html": "/react-typing-test/index.html",
+    "precache-manifest.3da75cbefaf3f29b922078450d6b1d04.js": "/react-typing-test/precache-manifest.3da75cbefaf3f29b922078450d6b1d04.js",
+    "service-worker.js": "/react-typing-test/service-worker.js",
+    "static/css/main.5c0da415.chunk.css.map": "/react-typing-test/static/css/main.5c0da415.chunk.css.map",
+    "static/media/logo.svg": "/react-typing-test/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.912a9e48.js",
+    "static/js/2.30c17023.chunk.js",
+    "static/css/main.5c0da415.chunk.css",
+    "static/js/main.75a89826.chunk.js"
+  ]
+}
