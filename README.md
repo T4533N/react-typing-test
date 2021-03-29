@@ -10,7 +10,7 @@ A Typing speed test game without time limit. Test your typing speed with ease an
 
 ## Getting Started
 
-1. Clone the repo: `git clone https://github.com/nfuad/pokerilla.git`
+1. Clone the repo: `git clone https://github.com/T4533N/react-typing-test.git`
 2. Install dependencies: `cd react-typing-test && npm install`
 3. Run the development server: `npm start`
 
