@@ -1,14 +1,24 @@
-## react-typing-test 
+## React-Typing-Test 
 
 A Typing speed test game without time limit. Test your typing speed with ease and find out how fast can you type in real world.
+
+## Tech Stack
+
+1. React
+2. Node.js
+3. Vercel (deployment)
 
 ## Getting Started
 
 1. Clone the repo: `git clone https://github.com/nfuad/pokerilla.git`
-2. Install dependencies: `cd pokerilla && yarn`
-3. Run the development server: `yarn dev`
+2. Install dependencies: `cd react-typing-test && npm install`
+3. Run the development server: `npm start`
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Deployment
+
+NOTE: The app is automatically deployed by vercel when code is pushed to the remote repo.
 
 ## Live Demo
 
