@@ -24,14 +24,14 @@ NOTE: The app is automatically deployed by vercel when code is pushed to the rem
 
 Click [here](https://react-typing-test.vercel.app) for demo.
 
-## license
+## License
 
 This app is 100% open-source, feel free to utilize the code however you would like.
 
 ```
 The MIT License (MIT)
 
-Copyright (c) 2018 Patrick Triest
+Copyright (c) 2021 Taseen Tanvir
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
