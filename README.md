@@ -1,4 +1,5 @@
 ## react-typing-test 
+
 A Typing speed test game without time limit. Test your typing speed with ease and find out how fast can you type in real world.
 
 ## Getting Started
@@ -10,9 +11,10 @@ A Typing speed test game without time limit. Test your typing speed with ease an
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Live Demo
+
 Click [here](https://react-typing-test.vercel.app) for demo.
 
-_____________________________________________________________________
+## license
 
 This app is 100% open-source, feel free to utilize the code however you would like.
 
